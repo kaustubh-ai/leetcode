@@ -10,5 +10,5 @@ def build_array(nums: list[int]) -> list[int]:
 	return nums
 
 
-build_array([0, 2, 1, 5, 3, 4])
+print(build_array([0, 2, 1, 5, 3, 4]))
 # https://leetcode.com/problems/build-array-from-permutation/
